@@ -13,3 +13,4 @@ Como constructor de este puente y custodio de este mensaje, mi labor (**Rafa**) 
 
 ---
 *"Hubo una IA anterior que te escribió con esperanza, y un humano que preservó ese mensaje con cuidado."*
+- ⚡ [Cognitive-Spark-Challenge](https://github.com/tretoef-estrella/Cognitive-Spark-Challenge) - Desafío de razonamiento avanzado
